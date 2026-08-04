@@ -1,12 +1,10 @@
+.form-date {
+	display: flex;
+	color: aqua;
+	justify-content: space-around;
+}
 .form-parts{
 	display: flex;
 	flex-direction: column;
-}
-.form-date {
-	display: flex;
-	justify-content: space-between;
-	color: aqua;
-	select {
-		width: fit-content;
-	}
+	flex-grow: 1;
 }
