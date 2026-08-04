@@ -8,4 +8,19 @@
   display: flex;
   flex-direction: column;
   flex-grow: 1;
+  margin: 2% 0;
+}
+
+.pars-head {
+  margin-bottom: 1%;
+}
+
+.form-date-wrap .form-parts {
+  margin-top: 0;
+}
+
+.form-bonus select {
+  width: -webkit-fill-available;
+  width: -moz-available;
+  width: stretch;
 }/*# sourceMappingURL=style.css.map */
