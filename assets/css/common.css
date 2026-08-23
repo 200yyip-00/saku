@@ -15,7 +15,7 @@ body {
   font-size: 1.2rem;
   text-align: left;
   max-width: 900px;
-  margin-top: 6%;
+  margin: 6% auto 0;
 }
 h1,h2,h3,h4,h5,h6 {
   line-height: 1;
