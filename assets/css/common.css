@@ -64,7 +64,15 @@ ul {
 form {
 padding: 5%;
 }
-label  {
-  font-size: 1.2rem;
+input {
+  border-radius: 20px;
+  padding: 0 2%;
+  border: solid 1px #000;
+}
+select {
+  border-radius: 20px;
+  padding: 0 2%;
+  border: solid 1px #000;
+  background-color: transparent;
 }
 /*# sourceMappingURL=top.css.map */
