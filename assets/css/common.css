@@ -12,9 +12,10 @@ body {
   font-family: "Helvetica Neue",Arial, "Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
   /* font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif; */
   font-weight: bold;
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   text-align: left;
   max-width: 900px;
+  margin-top: 6%;
 }
 h1,h2,h3,h4,h5,h6 {
   line-height: 1;
@@ -62,5 +63,8 @@ ul {
 
 form {
 padding: 5%;
+}
+label  {
+  font-size: 1.2rem;
 }
 /*# sourceMappingURL=top.css.map */

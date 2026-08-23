@@ -1,3 +1,6 @@
+.title {
+	padding: 0 5%;
+}
 .form-date {
 	display: flex;
 	color: aqua;
@@ -17,8 +20,13 @@
 	margin-top: 0;
  }
 }
-.form-bonus {
-	select {
-		width: stretch;
-	}
+.form-menber-parts {
+	display: flex;
+	justify-content: space-around;
+}
+.form-menber {
+	display: flex;
+	flex-direction: column;
+	flex-grow: 1;
+	margin: 2% 0;
 }
