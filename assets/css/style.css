@@ -33,4 +33,15 @@
   flex-direction: column;
   flex-grow: 1;
   margin: 2% 0;
+}
+
+.btn {
+  display: block;
+  width: 200px;
+  height: 40px;
+  border: solid 2px pink;
+  color: pink;
+  font-size: 2rem;
+  margin: 5% auto 10%;
+  border-radius: 20px;
 }/*# sourceMappingURL=style.css.map */
